@@ -1,1 +1,1 @@
-# Project_Dig_the_Earth
+# Project: Dig the Earth
